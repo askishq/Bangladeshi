@@ -18,6 +18,7 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qRpd6z5H/20250719-172453.jpg" group-title="News",Sony Yay
 https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
+https://tv.bongoflix.top/toffee/live.php?id=93bd384e76a9&=.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",Duronto TV
