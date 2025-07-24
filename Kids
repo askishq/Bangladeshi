@@ -5,7 +5,7 @@ https://stream.himelop-pro.top/vm/disneyop.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/QN0j5JD4/20250719-172249.jpg" group-title="News",Hungama TV
-http://51.159.15.56:8080/hls/4ce1e466b17de03040f3773db7c28096/150480_4.ts
+https://live.dinesh29.com.np/stream/livetv/hungamatv/master.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/DzkhFCQZ/20250719-172352.jpg" group-title="News", Doraemon
@@ -13,7 +13,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qvCrPf3S/20250719-172316.jpg" group-title="News",Sonic
-http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
+https://live.dinesh29.com.np/stream/livetv/disneyxd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qRpd6z5H/20250719-172453.jpg" group-title="News",Sony Yay
@@ -23,3 +23,6 @@ https://tv.bongoflix.top/toffee/live.php?id=93bd384e76a9&=.m3u8
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://live.dinesh29.com.np/logos/animax.png" group-title="News",Animax
+https://live.dinesh29.com.np/stream/livetv/animax/master.m3u8
