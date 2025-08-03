@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mDSBmQHr/20250719-172223.jpg" group-title="News",Disney Channel
-https://stream.himelop-pro.top/vm/disneyop.m3u8
+http://138.121.114.50:8000/play/a02r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/QN0j5JD4/20250719-172249.jpg" group-title="News",Hungama TV
@@ -17,9 +17,13 @@ https://live.dinesh29.com.np/stream/livetv/disneyxd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qRpd6z5H/20250719-172453.jpg" group-title="News",Sony Yay
-https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
-https://tv.bongoflix.top/toffee/live.php?id=93bd384e76a9&=.m3u8
-
+{
+    "category_name": "Family",
+    "name": "Sony YAY",
+    "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1754376652:KeyName=prod_linear:Signature=w-j8khQNCM3cR2CMG_3ZruTc89KkGkGZBDsdEl417rBih-iVKAxorsjsv1pD5T_qpOnwCrURF0lePUrVtLnTAg"
+  }
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8
