@@ -68,3 +68,6 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1750361488&u=8be812d7-3211-4694
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Pq4FvPjZ/20250719-162637.jpg" group-title="News",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/ZRy5TBzx/images-2.png" group-title="News",Nagorik TV
+http://103.237.37.118/live/Ottking/Ottking/2.ts
