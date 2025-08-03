@@ -16,7 +16,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://live.dinesh29.com.np/stream/livetv/disneyxd/master.m3u8
 
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qRpd6z5H/20250719-172453.jpg" group-title="News",Sony Yay
+EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/qRpd6z5H/20250719-172453.jpg" group-title="News",Sony Yay
 {
     "category_name": "Family",
     "name": "Sony YAY",
