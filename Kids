@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/mDSBmQHr/20250719-172223.jpg" group-title="News",Disney Channel
-http://138.121.114.50:8000/play/a02r/index.m3u8
+https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/QN0j5JD4/20250719-172249.jpg" group-title="News",Hungama TV
