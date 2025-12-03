@@ -72,15 +72,3 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/ZRy5TBzx/images-2.png" group-title="News",Nagorik TV
 http://103.112.62.111/live/ottking247/fuckyou/22.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/ZRy5TBzx/images-2.png" group-title="News",Green TV1
-https://tvsen6.aynascope.net/greentv/index.m3u8?e=1764766688&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5387c19e9058527983096ae88a987ec6
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/ZRy5TBzx/images-2.png" group-title="News",Green TV2
-https://tvsen6.aynascope.net/greentvhd/index.m3u8?e=1764766688&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5387c19e9058527983096ae88a987ec6
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/ZRy5TBzx/images-2.png" group-title="News",Green TV3
-https://tvsen6.aynascope.net/GreenTV/index.m3u8?e=1764766688&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5387c19e9058527983096ae88a987ec6
-
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/ZRy5TBzx/images-2.png" group-title="News",Green TV4
-https://tvsen6.aynascope.net/GreenTVHD/index.m3u8?e=1764766688&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5387c19e9058527983096ae88a987ec6
-
